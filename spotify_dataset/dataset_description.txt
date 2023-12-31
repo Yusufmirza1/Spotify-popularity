@@ -1,0 +1,54 @@
+The dataset contains all-time song data for all artists whose songs reached the top 50 worldwide in 201, 2022 and 2023.
+
+
+Spotify ID: Bu, Spotify platformunda her şarkı için benzersiz bir tanımlayıcıdır. Her şarkının kendine özgü bir Spotify ID'si vardır.
+
+Artist IDs: Bu sütun, şarkıyı yapan sanatçı(lar)ın kimliklerini içerir. Bir şarkının birden fazla sanatçı tarafından yapılmış olabileceğini unutmayın.
+
+Track Name: Şarkının adını içerir.
+
+Album Name: Şarkının yer aldığı albümün adını içerir.
+
+Artist Name(s): Şarkıyı yapan sanatçı veya sanatçıların adlarını içerir.
+
+Release Date: Şarkının yayınlandığı tarihi gösterir.
+
+Duration (ms): Şarkının süresini milisaniye cinsinden gösterir.
+
+Popularity: Spotify’da şarkının popülerliğini gösteren bir ölçüttür. Genellikle dinlenme sayılarına ve güncelliklerine göre hesaplanır.
+
+Added By: Şarkının kim tarafından eklenmiş olduğunu gösterir. Bu genellikle bir kullanıcı adı veya kimlik bilgisi olabilir.
+
+Added At: Şarkının ne zaman eklenmiş olduğunu gösterir.
+
+Genres: Şarkının ait olduğu müzik türlerini içerir.
+
+Danceability: Şarkının dans edilebilirlik düzeyini gösteren bir ölçüttür.
+
+Energy: Şarkının enerji seviyesini gösterir, genellikle tempo ve dinamiklik ile ilgilidir.
+
+Key: Şarkının anahtar notasını (tonunu) gösterir.
+
+Loudness: Şarkının genel ses şiddetini (desibel cinsinden) gösterir.
+
+Mode: Şarkının müzikal modunu (majör veya minör gibi) gösterir.
+
+Speechiness: Şarkıdaki konuşma oranını gösterir.
+
+Acousticness: Şarkının akustik özelliklerini gösterir.
+
+Instrumentalness: Şarkının ne kadar enstrümantal olduğunu gösterir.
+
+Liveness: Canlı kaydedilmiş olma ihtimalini gösterir.
+
+Valence: Şarkının ne kadar pozitif (mutlu, neşeli) olduğunu gösterir.
+
+Tempo: Şarkının tempoyu (bpm, dakikadaki vuruş sayısı) gösterir.
+
+Time Signature: Şarkının zaman imzasını (örneğin 4/4, 3/4) gösterir.
+
+top50: Şarkının Spotify’ın Top 50 listesine girip girmediğini gösterir.
+
+top50date: Eğer şarkı Top 50 listesine girdiyse, bu tarihi gösterir.
+
+top50datesecond: Eğer şarkı ikinci kez Top 50 listesine girdiyse, bu tarihi gösterir.
